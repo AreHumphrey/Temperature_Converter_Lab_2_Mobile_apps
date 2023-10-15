@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="fahrenheit_result">Температура в градусах по Фаренгейту: %.2f</string>
+    <string name="invalid_input">Неверный ввод</string>
+</resources>
